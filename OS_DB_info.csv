@@ -1,0 +1,9 @@
+Hostname,DBName,DBSize,DBCount,DBVersion,DBPort,DBMemory,DBPatchLevel,DBMountTotalSize,DBMountUsedSize,DBMountFree,LastSuccessfulBackup,Replication-Mirroring,HADR,OSArch,OSVersion,CPU#,RAMSize
+MySQLTestServer , prod, 0.01562500, 8 , 5.6 , 3306 , 1.6186 , 5.6.10 , 500G,105G,396G , NA , NA , NA , SUSE Linux Enterprise Server 11 SP4 , x86_64 , 2 , 3
+MySQLTestServer , stage, 0.65625000, 8 , 5.6 , 3306 , 1.6186 , 5.6.10 , 500G,105G,396G , NA , NA , NA , SUSE Linux Enterprise Server 11 SP4 , x86_64 , 2 , 3
+MySQLTestServer , cdt, 0.70312500, 8 , 5.6 , 3306 , 1.6186 , 5.6.10 , 500G,105G,396G , NA , NA , NA , SUSE Linux Enterprise Server 11 SP4 , x86_64 , 2 , 3
+MySQLTestServer , old, 3027.74452400, 8 , 5.6 , 3306 , 1.6186 , 5.6.10 , 500G,105G,396G , NA , NA , NA , SUSE Linux Enterprise Server 11 SP4 , x86_64 , 2 , 3
+MySQLTestServer , pad_test, 0.01562500, 8 , 5.6 , 3306 , 1.6186 , 5.6.10 , 500G,105G,396G , NA , NA , NA , SUSE Linux Enterprise Server 11 SP4 , x86_64 , 2 , 3
+MySQLTestServer , private, 0.01562500, 8 , 5.6 , 3306 , 1.6186 , 5.6.10 , 500G,105G,396G , NA , NA , NA , SUSE Linux Enterprise Server 11 SP4 , x86_64 , 2 , 3
+MySQLTestServer , snt, 64646.97582626, 8 , 5.6 , 3306 , 1.6186 , 5.6.10 , 500G,105G,396G , NA , NA , NA , SUSE Linux Enterprise Server 11 SP4 , x86_64 , 2 , 3
+MySQLTestServer , venquest, 12.10937500, 8 , 5.6 , 3306 , 1.6186 , 5.6.10 , 500G,105G,396G , NA , NA , NA , SUSE Linux Enterprise Server 11 SP4 , x86_64 , 2 , 3
