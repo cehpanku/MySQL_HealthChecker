@@ -4,7 +4,7 @@ This project aims to collect the details of the MySQL Server running on *\*nix* 
 The Script supports the following fields as of now & can be extended to support other fields also.
 
 Field|Details
----------------
+---|---
 HostnameDBName|Hostname of the SQL Server
 DBName|Table Name
 DBSize|Table Size
